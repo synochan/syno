@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dagcuta.christian15@gmail.com**
 
-- ⚡ Fun fact **I thinl I am Done.**
+- ⚡ Fun fact **I think I am Done.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
