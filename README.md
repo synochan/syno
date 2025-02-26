@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Python, JavaScript**
 
-- 📫 How to reach me **dagcuta.christian15@gmail.com**
+- 📫 How to reach me **christian.dagcuta@1.ustp.edu.ph**
 
 - ⚡ Fun fact **I think I am Done.**
 
